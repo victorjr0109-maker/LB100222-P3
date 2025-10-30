@@ -1,0 +1,4 @@
+id_locker,nombre,ubicación,disponible,distancia_km,estado_visual
+L01,Locker Metrocentro,San Salvador,✅,1.2,🟢 Disponible
+L02,Locker Escalón,San Salvador,❌,2.5,🔴 Ocupado
+L03,Locker La Gran Vía,Santa Tecla,✅,6.0,🟢 Disponible

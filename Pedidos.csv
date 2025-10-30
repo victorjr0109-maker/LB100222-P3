@@ -1,0 +1,3 @@
+id_pedido,usuario_email,estado,locker_asignado,hora_entrega
+PED001,stanleybarrientos10@gmail.com,En vuelo,Metrocentro,10:35 AM
+PED002,stanleybarrientos10@gmail.com,Entregado,Escalón,11:10 AM
